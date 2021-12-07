@@ -1,0 +1,45 @@
+
+
+Passive Recon:
+
+Arin - search by domain and ip
+// https://search.arin.net/rdap
+
+Whois
+// https://whois.domaintools.com/
+
+Netcraft
+// https://sitereport.netcraft.com/
+// https://searchdns.netcraft.com/
+
+Document Grinding
+// Dumpster diving
+// Google doc searches
+
+Jobs
+// identify technologies used
+
+View Webpage Source
+
+Mirror Sites
+// httrack - download local copy of interactive site
+// wget - download local copy of webpage
+// sam spade (win only)
+// archive.org
+    // http://web.archive.org
+
+Traceroute
+
+DNS 
+    nslookup
+    set type
+    zone transfer
+    hinfo
+    dig 
+    fierce -dns 
+
+robots.txt
+
+osfingerprinting
+    // netcat 
+    

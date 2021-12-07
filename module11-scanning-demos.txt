@@ -1,0 +1,7 @@
+Tools:
+
+Netcat
+HPing
+Nikto
+Rapid Expose
+Netdiscover

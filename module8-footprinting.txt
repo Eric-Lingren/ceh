@@ -1,0 +1,25 @@
+Footprinting
+
+nessus
+    // https://www.tenable.com/downloads/nessus?loginAttempted=true
+
+
+nikto
+
+xprobe2
+
+httprint
+
+google hacking
+    // intitle:
+    // +intext:
+    // inurl:
+    // filetype:
+    // link:
+
+
+https://www.exploit-db.com/
+
+https://www.exploit-db.com/google-hacking-database
+
+http://www.ipaddresslocation.org/

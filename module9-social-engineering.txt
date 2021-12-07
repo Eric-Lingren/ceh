@@ -1,0 +1,28 @@
+// spoofcard
+
+
+fear / intimidation
+
+revenge / disgruntled
+
+reciprocation
+
+hero / good samaritan
+
+flattery
+
+
+methods:
+    infiltration
+    fake admin
+    tailgating
+    rewards
+    social media
+    dumpster diving
+    reverse social engineering - they contact you
+    company tour
+    outside worker
+    surveys
+    email 
+        fake url
+        phishing

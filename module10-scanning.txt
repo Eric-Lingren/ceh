@@ -1,0 +1,14 @@
+Scanning Methodology:
+
+Identify Live Systems 
+Check for Open Ports
+Banner Grabbing (os version, webservices, etc)
+Prepare Proxies
+Scan for Vulnerabilities
+Draw Network Diagrams
+
+
+Firewalking:
+Determine Firewall ACL
+Uses TTL
+open vs closed Firewall Ports
